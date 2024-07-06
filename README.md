@@ -269,7 +269,7 @@ The project follows Agile principles to ensure iterative development, continuous
 
 ## Running the Application
 
-- Open your browser and navigate to http://localhost:5137 to access the frontend.
+- Open your browser and navigate to http://localhost:5173 to access the frontend.
 - Use Postman or any API client to test the backend endpoints at http://localhost:3000/api/tasks.
 
 ## Dependencies
